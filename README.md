@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @BBL-UNBLOCKED
+- 👀 I’m interested in HTML, CSS, JS, Java, C++, and C#
+- 🌱 I’m currently learning C++ and C#
+- 💞️ I’m looking to collaborate on website designs and websites
+- 📫 How to reach me: glitch.bblcontact@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I make Unity and Unreal games!
